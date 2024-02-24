@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: d30856bbe84e4506bb487e3ad159a370
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences:
-  - vignetteShader: {fileID: 4800000, guid: 3e9b9b51c89a4525a99a707c67e1ce39, type: 3}
-  - separableBlurShader: {fileID: 4800000, guid: e60e86b54ee14fdbb6805adb0c279f54,
-      type: 3}
-  - chromAberrationShader: {fileID: 4800000, guid: 1df563c5c1624578976ca0cda3e73714,
-      type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fde8c7a37c0f654866fda2aa75c94ee9498d99a3aa2957dc12c790b61132169
+size 480

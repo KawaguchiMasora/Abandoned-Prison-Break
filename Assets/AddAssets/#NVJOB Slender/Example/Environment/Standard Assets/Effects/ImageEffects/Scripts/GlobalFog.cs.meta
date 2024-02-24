@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: bcf7afb4ab2b41d2bc85db6109c3df14
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences:
-  - fogShader: {fileID: 4800000, guid: a87098063def4da2b0587381c176ac03, type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1946c1548c2e80cc2f29ea8fe305436708727bade1ccb9c681317b023de28365
+size 277

@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: 4c2bbcbdb1ac427ca8d82670fb146bcb
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences:
-  - fastBloomShader: {fileID: 4800000, guid: 627d5a51537b4089b42b7a86c96511b2, type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:85d88c7b53bd3b8a18a2023fcea1f13299acc6f7f6e31dd248db6248cb57b91e
+size 283

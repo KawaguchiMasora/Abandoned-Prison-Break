@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: f27cc58a4e4942c191479c92c5a043f2
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences:
-  - texture: {instanceID: 0}
-  - overlayShader: {fileID: 4800000, guid: e2b89dad781d48c68822056e576aea33, type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ef701ad8e5ad9ec0aa131933b1df37cfef840ad04e59f8c15d07ab7d4c38339
+size 310

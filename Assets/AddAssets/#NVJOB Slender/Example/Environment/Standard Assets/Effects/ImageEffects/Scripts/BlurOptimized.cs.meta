@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: 69c12e79a585406181ab150dd9a62732
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences:
-  - blurShader: {fileID: 4800000, guid: ed047934ef784e06a123a132ba097a1d, type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c279d8fb40dff6a115fb7055976e3789882d4d3ad7b18d14158d0a29378bc99
+size 278

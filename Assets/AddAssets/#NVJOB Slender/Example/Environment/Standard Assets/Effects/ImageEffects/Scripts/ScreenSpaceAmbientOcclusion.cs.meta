@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: 334220a0270f4bbbb0d5630673a20786
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences:
-  - m_SSAOShader: {fileID: 4800000, guid: df188ae90bc0429aa719e6d5276e9c60, type: 3}
-  - m_RandomTexture: {fileID: 2800000, guid: 5b8a53dcf7d44150909052b828d2401d, type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e100564b350f3c46f14c825868143f2839079a8cc8afcc5f75d0596317a54a33
+size 348
